@@ -23,9 +23,9 @@
 
 | 💻 Project | 📝 Description | 🔗 Link |
 |-----------|---------------|---------|
-| **Nodemp** | Mini CLI to quickly scaffold an Express.js application. | [Repo](#) |
-| **GoodHolidays** | Plan and organize events with friends & family. | [Repo](#) |
-| **Portfolio** *(in progress)* | My personal website built with React, TypeScript & TailwindCSS. | [Repo](#) |
+| **Nodemp** | Mini CLI to quickly scaffold an Express.js application. | [Repo](https://github.com/LeZam1306/nodemp) |
+| **GoodHolidays** | Plan and organize events with friends & family. | [Repo](https://github.com/LeZam1306/good_holidays) |
+| **Portfolio** *(in progress)* | My personal website built with React, TypeScript & TailwindCSS. | [Repo](https://github.com/LeZam1306/portfolio_v2) |
 
 ---
 
