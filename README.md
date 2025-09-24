@@ -23,6 +23,7 @@
 
 | 💻 Project | 📝 Description | 🔗 Link |
 |-----------|---------------|---------|
+| **Nodemp** | Mini CLI to quickly scaffold an Express.js application. | [Repo](#) |
 | **GoodHolidays** | Plan and organize events with friends & family. | [Repo](#) |
 | **Portfolio** *(in progress)* | My personal website built with React, TypeScript & TailwindCSS. | [Repo](#) |
 
